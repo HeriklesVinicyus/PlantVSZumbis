@@ -1,1 +1,2 @@
-# PlantVSZumbis\n Esse projeto fazer parte de um estudo sobre a unity.
+# PlantVSZumbis
+Esse projeto fazer parte de um estudo sobre a unity.
